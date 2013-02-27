@@ -1,0 +1,1 @@
+This is a short assignment while at the University of Houston.  The assignment required to find prime numbers using the the Open MPI library.  The prime numbers were to be such that tthe hree prime numbers were to be three consecutive integers.
